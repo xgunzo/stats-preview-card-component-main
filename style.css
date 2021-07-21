@@ -27,6 +27,7 @@ body {
 	right: 0;
   	
 	margin: auto;
+    border-radius: 10px 10px 10px 10px;
 }
 
 .card-left {
@@ -51,6 +52,7 @@ body {
 
 img {
     max-width: 100%;
+    border-radius: 0 10px 10px 0;
 }
 
 .card-right img {
